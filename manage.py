@@ -13,6 +13,7 @@ def main():
 
     if command == "test" and sys.platform == "darwin":
         # Workaround for https://code.djangoproject.com/ticket/31169
+         # Workaround for https://code.djangoproject.com/ticket/31169
         if os.environ.get("OBJC_DISABLE_INITIALIZE_FORK_SAFETY", "") != "YES":
             print(
                 (
