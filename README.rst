@@ -1,4 +1,4 @@
-Example project demonstrating using Django’s test runner with Coverage.py okkkkkkkkkkk
+Example project demonstrating using Django’s test runner with Coverage.py okkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 Set up with:
 
